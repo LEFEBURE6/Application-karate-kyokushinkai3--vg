@@ -19,7 +19,7 @@ export default function ConditionsGeneralesUtilisation() {
         <Text style={styles.text}>
           L’application <Text style={styles.bold}>Karaté Kyokushinkai</Text> aide les pratiquants de karaté
           en proposant des contenus pédagogiques, notamment via des liens vers des vidéos hébergées
-          sur YouTube. L’application est gratuite et peut afficher de la publicité.
+          sur YouTube et autres sites officiels publics. L’application est gratuite et peut afficher de la publicité.
         </Text>
 
         <Text style={styles.subtitle}>2. Acceptation des conditions</Text>
@@ -76,7 +76,7 @@ export default function ConditionsGeneralesUtilisation() {
         <Text style={styles.subtitle}>10. Contact</Text>
         <Text style={styles.text}>
           Pour toute question, contactez :{" "}
-          <Text style={styles.bold}>Ryutoken Entreprise — flefebure@live.fr</Text>
+          <Text style={styles.bold}>Ryutoken Entreprise siret 102846581 00019 — flefebure@live.fr</Text>
         </Text>
       </View>
     </ScrollView>

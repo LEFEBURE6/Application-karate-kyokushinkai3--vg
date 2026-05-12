@@ -17,53 +17,64 @@ export default function PolitiqueConfidentialite() {
 
         <Text style={styles.subtitle}>1. Introduction</Text>
         <Text style={styles.text}>
-          La présente Politique de Confidentialité explique comment l’application{" "}
-          <Text style={styles.bold}>Karaté Kyokushinkai</Text> gère les données des utilisateurs.
-          L’application est gratuite et redirige vers des contenus externes tels que des vidéos YouTube.
+          La présente Politique de Confidentialité explique comment
+          l’application <Text style={styles.bold}>Karaté Kyokushinkai</Text>{" "}
+          gère les données des utilisateurs. L’application est gratuite et
+          redirige vers des contenus externes tels que des vidéos YouTube. Les
+          vidéos sont la propriété de leurs auteurs respectifs, L'application
+          redirige simplement l'utilisateur vers des ressources officielles et
+          publiques.
         </Text>
 
         <Text style={styles.subtitle}>2. Données collectées</Text>
         <Text style={styles.text}>
-          L’application ne collecte aucune donnée personnelle directement. Aucun nom, adresse email,
-          numéro de téléphone ou information sensible n’est demandé.
+          L’application ne collecte aucune donnée personnelle directement. Aucun
+          nom, adresse email, numéro de téléphone ou information sensible n’est
+          demandé.
         </Text>
 
         <Text style={styles.subtitle}>3. Services tiers</Text>
         <Text style={styles.text}>
-          L’application peut afficher de la publicité ou rediriger vers des plateformes externes
-          (ex : YouTube). Ces services tiers peuvent collecter des données selon leurs propres
-          politiques de confidentialité.
+          L’application peut afficher de la publicité ou rediriger vers des
+          plateformes externes (ex : YouTube). Ces services tiers peuvent
+          collecter des données selon leurs propres politiques de
+          confidentialité.
         </Text>
 
         <Text style={styles.subtitle}>4. Publicité</Text>
         <Text style={styles.text}>
-          Des services publicitaires tiers peuvent afficher des annonces dans l’application.
-          Ces services peuvent utiliser des cookies ou identifiants anonymes pour personnaliser
-          les publicités.
+          Des services publicitaires tiers peuvent afficher des annonces dans
+          l’application. Ces services peuvent utiliser des cookies ou
+          identifiants anonymes pour personnaliser les publicités.
         </Text>
 
         <Text style={styles.subtitle}>5. Liens externes</Text>
         <Text style={styles.text}>
-          L’application contient des liens vers des vidéos ou sites externes. Nous ne sommes pas
-          responsables du contenu ou des pratiques de confidentialité de ces plateformes.
+          L’application contient des liens vers des vidéos ou sites externes.
+          Nous ne sommes pas responsables du contenu ou des pratiques de
+          confidentialité de ces plateformes.
         </Text>
 
         <Text style={styles.subtitle}>6. Sécurité</Text>
         <Text style={styles.text}>
-          Aucune donnée personnelle n’étant collectée, aucune information sensible n’est stockée.
-          Les services tiers appliquent leurs propres mesures de sécurité.
+          Aucune donnée personnelle n’étant collectée, aucune information
+          sensible n’est stockée. Les services tiers appliquent leurs propres
+          mesures de sécurité.
         </Text>
 
         <Text style={styles.subtitle}>7. Modifications de la politique</Text>
         <Text style={styles.text}>
-          Cette politique peut être mise à jour à tout moment. Les utilisateurs sont invités à
-          consulter cette page régulièrement.
+          Cette politique peut être mise à jour à tout moment. Les utilisateurs
+          sont invités à consulter cette page régulièrement.
         </Text>
 
         <Text style={styles.subtitle}>8. Contact</Text>
         <Text style={styles.text}>
-          Pour toute question concernant cette politique, vous pouvez contacter :{" "}
-          <Text style={styles.bold}>Ryutoken Entreprise — flefebure@live.fr</Text>
+          Pour toute question concernant cette politique, vous pouvez contacter
+          :{" "}
+          <Text style={styles.bold}>
+            Ryutoken Entreprise siret 102846581 00019 — flefebure@live.fr
+          </Text>
         </Text>
       </View>
     </ScrollView>
